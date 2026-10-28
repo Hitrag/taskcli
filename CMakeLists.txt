@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 4.3)
-project(taskcli VERSION 0.1
+project(taskcli VERSION 1.0
                 DESCRIPTION "a task manager only using cli programmed in c"
                 LANGUAGES C)
 
